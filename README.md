@@ -16,4 +16,4 @@ Make any adjustments for example the `width` and `height` of the iframe if it cu
 
 And your done and showing your Da-xn Island profile to the world!
 
-[Here is an example](https://cdn.discordapp.com/attachments/801201151126667324/817087518545543188/unknown.png)
+![](images/table https://cdn.discordapp.com/attachments/801201151126667324/817087518545543188/unknown.png)
